@@ -37,6 +37,7 @@
   <project path="device/motorola/sholes" name="koush/android_device_motorola_sholes" remote="github" />
   <project path="device/samsung/vibrant" name="wesgarner/android_device_samsung_vibrant" remote="github" />
   <project path="device/yuhua/x2" name="CyanogenMod/android_device_yuhua_x2" remote="github" />
+  <project path="device/acer/liquid" name="azuwis/android_device_acer_liquid" remote="github" />
 
 
   <project path="external/apache-http" name="platform/external/apache-http" />
